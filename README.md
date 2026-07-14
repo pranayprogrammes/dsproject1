@@ -1,0 +1,1 @@
+this is a project created for a hypothetical situation wherein the manager assigns some tasks to the data science intern (me). The condition i have to erform all the specified task using Python only no other frameworks .
